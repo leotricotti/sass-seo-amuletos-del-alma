@@ -145,7 +145,7 @@ a {
 }
 .index-main .item-marketing {
   text-align: center;
-  padding: 1rem 0 3rem 0;
+  padding: 2rem 0;
 }
 .index-main .item-marketing img {
   width: 100px;
@@ -361,7 +361,7 @@ a {
   }
   .index-container {
     display: grid;
-    grid-template: "header" 4rem "carrusel" 35rem "marketing" 30rem "info" 20rem "footer" 6rem;
+    grid-template: "header" 4rem "carrusel" 35rem "marketing" 25rem "info" 20rem "footer" 6rem;
   }
   .index-main .carousel {
     padding-top: 0;
@@ -374,7 +374,7 @@ a {
   }
   .index-main .item-marketing {
     width: 100%;
-    margin: 2rem 2rem;
+    margin: 2rem 0rem;
   }
   .index-main .item-marketing img {
     width: 140px;
